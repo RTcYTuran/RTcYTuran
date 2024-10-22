@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **.Net Core & Vue**
 
-- 📫 How to reach me **turancanyl@gmail.com**
+[- 📫 How to reach me **turancanyl@gmail.com**](url)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
