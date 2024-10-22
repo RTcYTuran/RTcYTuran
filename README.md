@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **.Net Core & Vue**
 
-[- 📫 How to reach me **turancanyl@gmail.com**](url)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rıza-turancan-yılmaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rıza-turancan-yılmaz" height="30" width="40" /></a>
